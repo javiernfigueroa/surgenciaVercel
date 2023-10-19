@@ -1,8 +1,8 @@
 import ArticleCard from './components/article-card/ArticleCard'
 import './Blog.css'
 import RootLayout from '../../layouts/RootLayout'
-import ButtonBack from '../../components/UI/ButtonBack'
-import SearchBar from '../../components/UI/SearchBar'
+import ButtonBack from '../../components/ui/ButtonBack'
+import SearchBar from '../../components/ui/SearchBar'
 
 const articles = ['art1', 'art2', 'art3', 'art4', 'art5', 'art6', 'art7', 'art8', 'art9']
 
